@@ -1,7 +1,7 @@
 // components/Header.tsx
 import {LinkWrapper} from '@/components/ui/link-wrapper';
 import {Label} from '@/components/ui/label';
-import { MobileNav } from '../../components/custom/mobile-nav';
+import { MobileNav } from '../../components/custom/navigation';
 
 export function Header() {
   return (
